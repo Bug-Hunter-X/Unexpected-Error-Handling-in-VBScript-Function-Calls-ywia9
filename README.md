@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript related to error handling within functions. The `bug.vbs` file shows a function that raises a custom error but doesn't provide robust error handling, whereas `bugSolution.vbs` offers a more robust solution by incorporating an `On Error Resume Next` block and appropriate error checking.
